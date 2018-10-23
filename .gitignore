@@ -1,1 +1,4 @@
 Bob.xcodeproj
+Bob/cmake-build-debug
+Bob/CMakeLists.txt
+.idea
